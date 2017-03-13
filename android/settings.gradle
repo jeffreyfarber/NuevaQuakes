@@ -1,0 +1,3 @@
+rootProject.name = 'NuevaQuakes'
+
+include ':app'
